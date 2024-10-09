@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Sortirovki\Sortirovki\bin\Debug\net8.0\Sortirovki.exe
+C:\Users\User\source\repos\Sortirovki\Sortirovki\bin\Debug\net8.0\Sortirovki.deps.json
+C:\Users\User\source\repos\Sortirovki\Sortirovki\bin\Debug\net8.0\Sortirovki.runtimeconfig.json
+C:\Users\User\source\repos\Sortirovki\Sortirovki\bin\Debug\net8.0\Sortirovki.dll
+C:\Users\User\source\repos\Sortirovki\Sortirovki\bin\Debug\net8.0\Sortirovki.pdb
+C:\Users\User\source\repos\Sortirovki\Sortirovki\obj\Debug\net8.0\Sortirovki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sortirovki\Sortirovki\obj\Debug\net8.0\Sortirovki.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sortirovki\Sortirovki\obj\Debug\net8.0\Sortirovki.AssemblyInfo.cs
+C:\Users\User\source\repos\Sortirovki\Sortirovki\obj\Debug\net8.0\Sortirovki.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sortirovki\Sortirovki\obj\Debug\net8.0\Sortirovki.dll
+C:\Users\User\source\repos\Sortirovki\Sortirovki\obj\Debug\net8.0\refint\Sortirovki.dll
+C:\Users\User\source\repos\Sortirovki\Sortirovki\obj\Debug\net8.0\Sortirovki.pdb
+C:\Users\User\source\repos\Sortirovki\Sortirovki\obj\Debug\net8.0\Sortirovki.genruntimeconfig.cache
+C:\Users\User\source\repos\Sortirovki\Sortirovki\obj\Debug\net8.0\ref\Sortirovki.dll
